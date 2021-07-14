@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PapaGex
-- 👀 I’m interested in deep learning, algorythmic trading, blockchain technology and ethical hacking
+- 👀 I’m interested in deep learning, algorythmic trading, blockchain technology and ethical hacking. I also love breeding geckos and other reptiles
 - 🌱 I’m currently learning javascript, python, julia and want to learn rust and c#. I took c++ many years ago and learned basic and dos when i was a kid
 - 💞️ I’m looking to collaborate on anything that I am interested in and have the time for
 - 📫 How to reach me. cryptoblockchainjunkie@gmail.com
